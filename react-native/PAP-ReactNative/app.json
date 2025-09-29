@@ -1,0 +1,69 @@
+{
+  "expo": {
+    "name": "PAP-ReactNative",
+    "slug": "PAP-ReactNative",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.dinisfragata.papreactnative",
+      "supportsTablet": true,
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.dinisfragata.papreactnative",
+      "runtimeVersion": "1.0.0"
+    },
+    "web": {
+      "favicon": "assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "enableJetifier": true,
+            "useAndroidX": true
+          }
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera",
+          "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone",
+          "recordAudioAndroid": true
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "682e898e-a751-4646-bfc5-5eb3d2930094"
+      }
+    },
+    "packagerOpts": {
+      "hostType": "tunnel"
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "updates": {
+      "url": "https://u.expo.dev/682e898e-a751-4646-bfc5-5eb3d2930094"
+    }
+  }
+}

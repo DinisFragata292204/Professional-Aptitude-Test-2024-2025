@@ -1,0 +1,33 @@
+export type RootStackParamList = {
+    Login: undefined;
+    Aluno: { email: string };
+    Professor: { email: string };
+    Administrador: { email: string };
+    SignIn: {initialMessage: string};
+    ForgetPassword: { email: string };
+    SplashScreen: undefined;
+    VerifyCode: {initialMessage: string, email: string };
+    PutPassword: {initialMessage: string, email: string };
+    SelectTurma: { initialMessage: string, email: string };
+    ThemeScreen: { email: string };
+    NotificationsScreen: { email: string };
+    PersonalDataScreen: { email: string };
+    PasswordSecurityScreen: { email: string };
+    NotasScreen: { email: string };
+    AdicionarTarefasScreen: { email: string };       
+    entradasEsaidas: { email: string }; 
+    DisciplinasScreen: { email: string };
+    HorariosScreen: { email: string };
+    AddEventsScreen: { email: string };
+    AdicionarNotasScreenScreen: { email: string };
+    InsertPasswordScreen: { email: string };
+    Auxiliar: { email: string };
+    Cozinheira: { email: string };
+    VerificationScreen: { email: string };
+    VerifyCodeForgetPassword: { email: string; initialMessage?: string };
+    PutNewPassForgetPassword: { email: string };
+    auxiliarScreen: { email: string };
+    sugestAnythingScreen: { email: string };
+    suggestionsScreen: { email: string };
+  };
+  

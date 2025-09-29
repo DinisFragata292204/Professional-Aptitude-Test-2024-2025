@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.js": "/static/js/main.988a004f.js",
+    "static/js/829.0a72be3a.js": "/static/js/829.0a72be3a.js",
+    "static/media/bg4.jpg": "/static/media/bg4.8de26c65a39fe7688333.jpg",
+    "static/media/bg2.jpg": "/static/media/bg2.e79316574a136952eb91.jpg",
+    "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/bg3.jpg": "/static/media/bg3.e8b3f1b8837436968922.jpg",
+    "static/media/bg5.jpg": "/static/media/bg5.7da1e58294e6084bae8a.jpg",
+    "static/media/Ionicons.ttf": "/static/media/Ionicons.9b6b1954a5eb6efeaf11.ttf",
+    "static/media/account-circle.png": "/static/media/account-circle.d83802e0c43abe53e1e0.png",
+    "static/media/eye-off.png": "/static/media/eye-off.a633caf6d882ccd61cd8.png",
+    "static/media/bg1.jpg": "/static/media/bg1.e5e76bc30e90e25aa60c.jpg",
+    "static/media/info.png": "/static/media/info.04b2e0742c0a90b7ad16.png",
+    "static/media/eye.png": "/static/media/eye.1073c8e465f168c13743.png",
+    "favicon.ico": "/favicon.ico",
+    "static/media/refresh.png": "/static/media/refresh.a5c125336d01fec4f31f.png",
+    "static/media/list-check.png": "/static/media/list-check.7be725e2d2a88c56ebf3.png",
+    "static/media/school.png": "/static/media/school.936f394320309b8486a7.png",
+    "static/media/account.png": "/static/media/account.bfa683cadfa2a1714e02.png",
+    "static/media/user.png": "/static/media/user.bfa683cadfa2a1714e02.png",
+    "static/media/cross.png": "/static/media/cross.a7c42097bcd95c5909ec.png",
+    "static/media/check.png": "/static/media/check.76bf1d58f3992106eb98.png",
+    "static/media/angle-left.png": "/static/media/angle-left.ed1b02425409158e9dec.png",
+    "static/media/menu-burger.png": "/static/media/menu-burger.8cde76808547be526fa1.png",
+    "index.html": "/index.html",
+    "static/media/plus.png": "/static/media/plus.2583e35eea365262ca73.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.988a004f.js.map": "/static/js/main.988a004f.js.map",
+    "829.0a72be3a.js.map": "/static/js/829.0a72be3a.js.map"
+  },
+  "entrypoints": [
+    "static/js/829.0a72be3a.js",
+    "static/js/main.988a004f.js"
+  ]
+}

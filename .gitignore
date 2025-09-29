@@ -1,2 +1,19 @@
-.env
-/vendor/
+# Node modules
+node_modules/
+
+# Expo cache e build
+.expo/
+*.expo
+react-native/.expo/
+react-native/PAP-ReactNative/.expo/
+
+# Builds
+build/
+dist/
+
+# Arquivos de ambiente / segredos
+*.env
+data.env
+
+# Logs
+*.log

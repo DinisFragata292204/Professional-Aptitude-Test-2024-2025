@@ -1,0 +1,74 @@
+Array
+(
+    [success] => 1
+    [headline] => Estatísticas de Almoço - 16/07/2025
+    [alunosCount] => 2
+    [professoresCount] => 1
+    [administradoresCount] => 0
+    [total] => 3
+    [alunos] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 83
+                    [email] => aluno@etps.com.pt
+                    [cargo] => aluno
+                    [dias] => Array
+                        (
+                            [0] => 2025-05-13
+                        )
+
+                    [turma_id] => 1
+                    [turma] => Array
+                        (
+                            [ano] => 10
+                            [turma] => A
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 155
+                    [email] => camponeses@etps.com.pt
+                    [cargo] => aluno
+                    [dias] => Array
+                        (
+                            [0] => 2025-05-16
+                            [1] => 2025-05-22
+                        )
+
+                    [turma_id] => 1
+                    [turma] => Array
+                        (
+                            [ano] => 10
+                            [turma] => A
+                        )
+
+                )
+
+        )
+
+    [professores] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6
+                    [email] => professor@etps.com.pt
+                    [cargo] => professor
+                    [dias] => Array
+                        (
+                            [0] => 2025-05-15
+                        )
+
+                    [turma_id] => 
+                )
+
+        )
+
+    [administradores] => Array
+        (
+        )
+
+    [sugestoes] => 4 - Muito bom o almoço.
+)

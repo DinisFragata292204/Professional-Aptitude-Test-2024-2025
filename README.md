@@ -1,4 +1,27 @@
-# Professional Aptitude Test 2024-2025 - Setup Guide
+# Developed a **mobile app** and a **website** for my school with the following features:  
+- 🔐 **Authentication System** — login & user management  
+- 🍽️ **Lunch Ticket Registration**  
+- 🚪 **Entry & Exit Tracking**  
+- 📅 **Activity Management**  
+- 📝 **Grades Recording & Viewing**  
+
+📌 **Duration:** 7 months (part-time)  
+🏆 **Grade:** Maximum score (20/20)  
+
+#### ⚙️ Tech Used
+| **Frontend**   | **Backend** | **Database** |
+|----------------|-------------|--------------|
+| React Native   | PHP         | MySQL        |
+
+#### 🛠️ Supporting Tools
+`VS Code` · `XAMPP` · `PHPMyAdmin`  
+`cron-job.org` · `Ngrok` · `Live Share` · `localtunnel` · `SendGrid` · `Expo Go`
+
+📷 [See the final interfaces on Google Drive](https://drive.google.com/drive/folders/1JynohSephgTuHeBbBipc3T81ufNdVewT?usp=drive_link)
+
+---
+
+# Setup Guide
 
 This guide explains how to set up and run the project, including React Native, PHP, and SQL components.
 

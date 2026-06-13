@@ -21,68 +21,12 @@
 
 ---
 
-# Setup Guide
+# Screenshots
 
-This guide explains how to set up and run the project, including React Native, PHP, and SQL components.
+<img width="1567,805953693495" height="750" alt="screenshot1" src="https://github.com/user-attachments/assets/3ca23525-2272-43d4-9b1b-2369beebd0db" />
 
-1️⃣ Clone the Repository
-----------------------------------------
-# Clone the repository to your local machine
-git clone [Click here](https://github.com/DinisFragata292204/Professional-Aptitude-Test-2024-2025.git)
+_Screenshot 1_
 
-# Go into the project folder
-cd DinisFragata292204-Professional-Aptitude-Test-2024-2025
+<img width="450" height="1000" alt="screenshot2" src="https://github.com/user-attachments/assets/0f16c07a-9de3-4a42-a8b6-9f676b5fb316" />
 
-2️⃣ React Native Setup
-----------------------------------------
-# Install npm dependencies
-- cd react-native/PAP-ReactNative
-- npm install
-
-# If using Expo, install Expo CLI globally (if not already installed)
-npm install -g expo-cli
-
-# Start the Expo development server
-expo start
-
-3️⃣ PHP Setup
-----------------------------------------
-# Go to the PHP folder
-cd PHP
-
-# Create a .env file based on the template
-cp .env.example .env
-
-# Example of variables
-- DB_HOST=localhost
-- DB_USER=root
-- DB_PASS=password
-- SENDGRID_API_KEY=your_sendgrid_key
-
-# Install PHP dependencies (if using Composer)
-composer install
-
-# Start PHP built-in server
-php -S localhost:8000
-
-4️⃣ SQL Setup
-----------------------------------------
-# Access MySQL or your preferred SQL client
-mysql -u root -p
-
-# Create the database
-CREATE DATABASE professional_aptitude_test;
-
-# Import the SQL file to phpMyAdmin
-
-5️⃣ Run the Project
-----------------------------------------
-- Start the React Native app using *npx expo start*
-- Start the PHP server using *php -S localhost:8000*
-- Ensure your SQL database is running and .env is properly configured.
-
-6️⃣ Important Notes
-----------------------------------------
-- Do not commit .env or any secret keys to GitHub.
-- Clear cache files (.expo, node_modules) if needed.
-- Make sure all dependencies are installed before running the project.
+_Screenshot 2_
